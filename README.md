@@ -57,6 +57,8 @@ This project presents a comprehensive **sales dashboard** for Ferns and Petals (
       **For Detailed Insights- Check out LinkedIn**
 ## 📸 Dashboard Preview
 
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## 📬 Connect with Me
 
 👩‍💻 **Gitanjali Pekamwar**  
