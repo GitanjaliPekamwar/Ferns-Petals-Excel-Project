@@ -54,7 +54,7 @@ This project presents a comprehensive **sales dashboard** for Ferns and Petals (
 - **Soft Toys and Sweets** were top-selling product categories.
 - **Anniversary** occasion generated the **most revenue** among all occasions.
 - **Imphal and Dibrugarh** were leading cities in terms of total orders.
-      **For Detailed Insights- Check out LinkedIn**
+- **For Detailed Insights- Check out LinkedIn**
 ## 📸 Dashboard Preview
 
 ![Dashboard Screenshot](https://github.com/GitanjaliPekamwar/Ferns-and-Petals-Excel-Project/blob/main/Screenshot%202025-04-11%20122045.png)
